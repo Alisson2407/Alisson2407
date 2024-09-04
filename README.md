@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Alisson2407
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Alisson2407
+- 👀 Estou interessado no curso de desenvolvimento de sistemas ...
 
-<!---
-Alisson2407/Alisson2407 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Oi Alisson2407</h1>
+<h3 align="center">Um estudante de análise de desenvolvimento de sistema </h3>
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Idiomas e ferramentas:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+
+
