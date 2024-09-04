@@ -4,7 +4,7 @@
 <h1 align="center">Oi Alisson2407</h1>
 <h3 align="center">Um estudante de análise de desenvolvimento de sistema </h3>
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Conecte-se comigo:alissonevangelista60@gmail.com</h3>
 <p align="left">
 </p>
 
