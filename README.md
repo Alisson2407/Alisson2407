@@ -1,5 +1,5 @@
 - 👋 Alisson2407
-- 👀 Estou no curso de análise de desenvolvimento de sistemas...
+- 👀 Estou cursando o segundo período de análise de desenvolvimento de sistemas...
 
 <h1 align="center">Oi Alisson2407</h1>
 <h3 align="center">Um estudante de análise de desenvolvimento de sistema </h3>
